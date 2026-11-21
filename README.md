@@ -2,7 +2,7 @@
 
 I study engineering science (B.Sc.) at TUM. I'm interested in data, agent tooling and simulation.
 
-![](germany.svg)
+![](map.svg)
 
 Some stuff I've built:
 
